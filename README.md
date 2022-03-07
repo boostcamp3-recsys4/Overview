@@ -40,10 +40,10 @@
         </td>
     </tr>
         <td align="center">폴라</td>
-        <td align="center">폴라</td>
-        <td align="center">폴라</td>
-        <td align="center">폴라</td>
-        <td align="center">폴라</td>
+        <td align="center">닉네임</td>
+        <td align="center">닉네임</td>
+        <td align="center">렉사</td>
+        <td align="center">닉네임</td>
     <tr>
     </tr>
     <tr>

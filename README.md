@@ -36,7 +36,7 @@
             <img height="120px" weight="120px" src="./imgaes/"/>
         </td>
         <td align="center">
-            <img height="120px" weight="120px" src="./imgaes/"/>
+            <img height="120px" weight="120px" src="https://github.com/pilkyuchoi/images/blob/main/phil_profile.jpg"/>
         </td>
     </tr>
         <td align="center">폴라</td>

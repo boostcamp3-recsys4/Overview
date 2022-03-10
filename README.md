@@ -43,7 +43,7 @@
         <td align="center">닉네임</td>
         <td align="center">닉네임</td>
         <td align="center">렉사</td>
-        <td align="center"></td>
+        <td align="center">필</td>
     <tr>
     </tr>
     <tr>

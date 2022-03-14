@@ -27,13 +27,13 @@
             <img height="120px" weight="120px" src="./images/polar_profile.jpg"/>
         </td>
         <td align="center">
-            <img height="120px" weight="120px" src="./imgaes/"/>
+            <img height="120px" weight="120px" src="https://avatars.githubusercontent.com/u/38286295?s=460&v=4"/>
         </td>
         <td align="center">
-            <img height="120px" weight="120px" src="./imgaes/"/>
+            <img height="120px" weight="120px" src="https://avatars.githubusercontent.com/u/38286295?s=460&v=4"/>
         </td>
         <td align="center">
-            <img height="120px" weight="120px" src="./imgaes/"/>
+            <img height="120px" weight="120px" src="https://avatars.githubusercontent.com/u/38286295?s=460&v=4"/>
         </td>
         <td align="center">
             <img height="120px" weight="120px" src="https://github.com/pilkyuchoi/images/blob/main/phil_profile.jpg"/>

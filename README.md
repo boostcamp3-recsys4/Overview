@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="boostcamp_logo.png"/>
+    <img src="/images/boostcamp_logo.png"/>
 </div>
 
 # Team 마음에들조 (RecSys-04)
